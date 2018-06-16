@@ -6,5 +6,4 @@ conan_basic_setup()
 
 add_executable(pointcloud_example pointcloud_example.cpp)
 target_link_libraries(pointcloud_example ${CONAN_LIBS})
-
-
+set_property(TARGET pointcloud_example PROPERTY CXX_STANDARD 11)
