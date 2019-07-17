@@ -1,12 +1,8 @@
 ## Package Status
 
-|---------|----------|--------|
 | Bintray | Appveyor | Travis |
 |---------|----------|--------|
-|         | [![Build status](https://ci.appveyor.com/api/projects/status/github/J-Light/conan-nanoflann?svg=true)](https://travis-ci.org/J-Light/conan-nanoflann) | [![Build Status](https://travis-ci.org/J-Light/conan-nanoflann.svg?branch=master)](https://travis-ci.org/J-Light/conan-nanoflann) |
-|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-
-
+|[![Download](https://api.bintray.com/packages/jlight/conan-public/nanoflann%3Ajlight/images/download.svg)](https://bintray.com/jlight/conan-public/nanoflann%3Ajlight/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/J-Light/conan-nanoflann?svg=true)](https://ci.appveyor.com/project/J-Light/conan-nanoflann)|[![Build Status](https://travis-ci.org/J-Light/conan-nanoflann.svg?branch=master)](https://travis-ci.org/J-Light/conan-nanoflann)|
 
 ## Conan.io Information
 
